@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-demo",
+  "version": "1.0.0",
+  "description": "Simple app to test Jenkins pipeline",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node app.js"
+  }
+}
